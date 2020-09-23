@@ -1,0 +1,15 @@
+add origin ref
+--------------
+git remote add origin https://github.com/Computer-Science-Group/gitDemo.git
+
+show exist origin
+-----------------
+git remote show origin
+
+change exist origin
+-------------------
+git remote set-url origin git@github.com:Computer-Science-Group/gitDemo.git
+
+push local repo to remote
+-------------------------
+git push -u origin master
