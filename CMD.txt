@@ -38,3 +38,7 @@ git remote set-url origin git@github.com:Computer-Science-Group/gitDemo.git
 push local repo to remote
 -------------------------
 git push -u origin master
+
+create new local branch ex "SB-branch"
+--------------------------------------
+git checkout -b SB-branch
