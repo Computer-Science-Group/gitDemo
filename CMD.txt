@@ -1,3 +1,28 @@
+initialize git
+--------------
+git init
+
+show status
+-----------
+git status
+
+staged single file
+------------------
+git add <file-name>
+
+staged all files
+----------------
+git add .
+
+commit
+------
+git commit -m "message for commit"
+
+show historic log
+-----------------
+git log
+
+
 add origin ref
 --------------
 git remote add origin https://github.com/Computer-Science-Group/gitDemo.git
