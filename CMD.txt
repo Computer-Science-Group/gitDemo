@@ -43,3 +43,16 @@ create new local branch ex "SB-branch"
 --------------------------------------
 git checkout -b SB-branch
 
+push local branch to remote branch
+----------------------------------
+git push origin SB-Branch
+
+show all branches
+-----------------
+git branch -a
+
+show local branch 
+-----------------
+git branch
+
+
