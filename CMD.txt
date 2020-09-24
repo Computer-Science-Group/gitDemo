@@ -42,3 +42,7 @@ git push -u origin master
 create new local branch ex "SB-branch"
 --------------------------------------
 git checkout -b SB-branch
+
+push local branch to remote branch
+----------------------------------
+git puch origin master:SB-branch
