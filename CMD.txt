@@ -51,4 +51,8 @@ show all branches
 -----------------
 git branch -a
 
+show local branch 
+-----------------
+git branch
+
  
