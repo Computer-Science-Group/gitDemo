@@ -55,4 +55,19 @@ show local branch
 -----------------
 git branch
 
+# fork ---
 
+changing remote origin
+----------------------
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
+show current configuration
+--------------------------
+git config --list
+
+solo branch-------------
+-------------------------
+
+
+------
+------
